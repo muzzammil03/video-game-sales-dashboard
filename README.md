@@ -2,7 +2,7 @@
 
 An interactive **Power BI** dashboard that explores global video game sales across **platforms, genres, and release years**.
 
-[![Dashboard Preview](images/dashboard.png)](https://drive.google.com/file/d/11Oc-HmZM9OTkyA17hSmAbvKIxekkn5yF/view?usp=drive_link)
+[![Dashboard Preview]](https://drive.google.com/file/d/11Oc-HmZM9OTkyA17hSmAbvKIxekkn5yF/view?usp=drive_link)
 
 ---
 
